@@ -1,0 +1,13 @@
+.crl-suggestion-part {
+	&._highlight {
+		font-weight: 700;
+	}
+
+	&._opacity {
+		opacity: .5;
+	}
+
+	&._opacity._highlight {
+		opacity: .7;
+	}
+}

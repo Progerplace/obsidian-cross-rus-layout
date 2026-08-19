@@ -1,0 +1,10 @@
+{
+	"id": "cross-rus-layout",
+	"name": "Cross rus layout",
+	"version": "0.1.0-beta.1",
+	"minAppVersion": "1.5.7",
+	"description": "Поиск файлов с учётом неправильной раскладки",
+	"author": "Progerplace",
+	"authorUrl": "https://progerplace.ru",
+	"isDesktopOnly": false
+}
